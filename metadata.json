@@ -1,0 +1,9 @@
+{
+  "name": "Community GO",
+  "description": "A Pokemon Go-style civic issue reporting app that turns neighbourhood problem-solving into a community quest.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
